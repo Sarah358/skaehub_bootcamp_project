@@ -1,4 +1,5 @@
 # skaehub_bootcamp_project
+
 # Real time currency conversion app/Bitcoin price tracker
 
 ## About the app
@@ -160,3 +161,4 @@ Finally just create labels to display the results and you are done.
 To get the full source code of the app, navigate to realtime_currency.py file.
 
 To add to the project just pull a request and make sure to commit your changes.... 
+
